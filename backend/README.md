@@ -74,7 +74,7 @@ Complete Node.js/Express backend for the Luxe premium e-commerce application.
    PORT=5000
 
    # MongoDB Atlas connection string
-   MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/luxe-ecommerce
+   MONGODB_URI=your-mongodb-uri
 
    # JWT secrets
    JWT_SECRET=your-secure-jwt-secret-key
